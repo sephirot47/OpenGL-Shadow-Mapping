@@ -1,2 +1,3 @@
-# OpenGL-Shadow-Mapping
-Deferred shadow mapping using OpenGL
+# RealEngine
+3D OpenGL engine
+ 
